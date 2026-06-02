@@ -72,7 +72,7 @@ export const Hero = () => {
                           </span>
                         </h1>
                         <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-800">
-                            Hi, I'm Olalekan Olayinka Daniel - a software engineer specializing in Html, Css, Javascript  and React. I build scalable, performant web applications that users love.
+                            Hi, I'm Olalekan Olayinka Daniel - a software engineer specializing in Html, Css, Javascript, MongoDB, Express.js, React and Node.js . I build scalable, performant web applications that users love.
                         </p>
                     </div>
 
